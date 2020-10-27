@@ -1,2 +1,2 @@
-# StupidBox
-It's a stupid Box
+
+It's a stupid Box but it is useful.
